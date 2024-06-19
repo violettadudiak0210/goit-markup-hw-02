@@ -9,7 +9,7 @@ body {
     color: #4d5ae5;
 }
 .header {
-   font-family: "Relaway", sans-serif;
+   font-family: "Raleway", sans-serif;
    font-size: 18px;
    font-weight: 700;
    line-height: 1.17;
@@ -123,4 +123,14 @@ background-color: #FFF;
 
 .footer {
     background-color: #2e2f42;
+}
+
+.span-footer {
+    color: #f4f4fd;
+}
+
+.paragraph-footer {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
