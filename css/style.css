@@ -62,3 +62,65 @@ body {
 .address-link:focus {
     color: #404bbf;
 }
+
+.section-one {
+    background-color: #2e2f42;
+
+}
+
+.header-one {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFF;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFF;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #404bbf;
+}
+.button:focus {
+    background-color: #404bbf;
+}
+
+.header-three {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.section-three {
+    background-color: #f4f4fd;
+}
+
+.header-two {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.list-section-three {
+background-color: #FFF;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
