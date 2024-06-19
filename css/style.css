@@ -4,6 +4,10 @@ body {
     background-color: #FFF;
 }
 
+.logo{
+    font-family: "Raleway", sans-serif;
+    color: #4d5ae5;
+}
 .header-style {
    font-family: "Relaway", sans-serif;
    font-size: 18px;
